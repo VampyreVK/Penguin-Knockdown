@@ -13,13 +13,10 @@ Penguin Knockdown is an augmented reality recreation of the classic Knock-Em-Dow
 1. **Knocking Down Penguins**: Allows the player to shoot balls out of their controller, which knock down a set of "penguins" when they collide.
    - **Estimated Challenge - 3:** Getting the physics right on this one could be tricky, as I have had some trouble with this in the past.
 2. **Real-Life Anchoring**: Allows the carnival game to anchor itself to your real life space, increasing immersion, and making it seem like the arcade is build into your wall.
-
    - **Estimated Challenge - 5:** Getting this to work will be a real challenge, but I really want to give it a shot, the goal of this is to make it much more immersive, and to really transport the carnival to you.
 3. **Prize Delivery System**: Knock down all the penguins? Get a prize!
-
    - **Estimated Challenge - 3:** I will have to implement some sort of script in order to properly get the game to detect when you have knocked down all the penguins, but once that is done, dropping a prize on the player should not be a huge challenge.
 4. **Three Strikes And You're Out!**: Miss Three Balls? You loose, and the game resets!
-
    - **Estimated Challenge - 4:** This will be interesting, as I will have to know when the player has missed a penguin as well as when they have hit one, and take different actions accordingly while storing the value of the number hit and missed. Resetting the scene itself shouldn't be too hard, but the tricky part is re-initializing everything to the same location it was in at the start.
 
 ## Milestones
