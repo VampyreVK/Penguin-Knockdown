@@ -35,4 +35,4 @@ Penguin Knockdown is an augmented reality recreation of the classic Knock-Em-Dow
 1. [Arcane - Target Practice Scene](https://youtu.be/-X0gU5-3HYo?si=O_tq56og8oZzpJBQ&t=54):
 This scene with shooting paintballs at fake target creatures is largely the type of gameplay that I want to recreate with my project.
 2. [Knock-Em-Down Carnival Game](https://www.pinterest.com/pin/carnival-games-diy--48343395992694432/)
-The aestitic of my carnival game is aiming to match this classic carnival attraction. I could not find a good link showcasing it besides this pinterest pin, so if I find a better example with more details I will update this part.
+The aestitic of my carnival game is aiming to match this classic carnival attraction. I could not find a good link showcasing it besides this Pinterest pin, so if I find a better example with more details I will update this part.
