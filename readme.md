@@ -6,7 +6,7 @@
 
 ## Project Description
 
-Penguin Knockdown is an augmented reality recreation of the classic carnival game that is sure to have you throwing your controller against the wall in fits of rage when the dang penguins just WON'T GO DOWN!!!!! Trauma aside, this project aims to utilize spatial data to place the penguin game relative to your real life space, and allows you to shoot the balls using a controller to knock down penguins and maybe even win a prize if you are lucky!
+Penguin Knockdown is an augmented reality recreation of the classic Knock-Em-Down carnival game that is sure to have you throwing your controller against the wall in fits of rage when the dang penguins just WON'T GO DOWN!!!!! Trauma aside, this project aims to utilize spatial data to place the penguin game relative to your real life space, and allows you to shoot the balls using a controller to knock down penguins and maybe even win a prize if you are lucky!
 
 ## Feature Breakdown
 
@@ -36,4 +36,6 @@ Penguin Knockdown is an augmented reality recreation of the classic carnival gam
 ## Inspirations
 
 1. [Arcane - Target Practice Scene](https://youtu.be/-X0gU5-3HYo?si=O_tq56og8oZzpJBQ&t=54):
-2. 
+This scene with shooting paintballs at fake target creatures is largely the type of gameplay that I want to recreate with my project.
+2. [Knock-Em-Down Carnival Game](https://www.pinterest.com/pin/carnival-games-diy--48343395992694432/)
+The aestitic of my carnival game is aiming to match this classic carnival attraction. I could not find a good link showcasing it besides this pinterest pin, so if I find a better example with more details I will update this part.
